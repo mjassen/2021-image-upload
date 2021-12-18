@@ -1,0 +1,5 @@
+Options +Indexes
+IndexIgnore *.php *.html
+IndexOptions +FancyIndexing
+IndexOptions SuppressLastModified
+IndexOrderDefault Descending Name
